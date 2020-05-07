@@ -1,4 +1,5 @@
 print("Hello, Git!")
 print("Ik heb een nieuwe print aangepast.")
 print("Let's upload it to GitHub!")
+print("New line, new fun")
 input("Press ENTER to continue...")
